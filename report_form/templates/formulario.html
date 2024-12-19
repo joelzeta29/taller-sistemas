@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consultas a la Base de Datos</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+
+<div class="container mt-5">
+    <h2>Consulta de Información</h2>
+    <form id="consultaForm">
+        <div class="form-group">
+            <label for="consultaType">Selecciona una consulta:</label>
+            <select class="form-control" id="consultaType">
+                <option value="/consulta/docentes">¿Cuantos cursos lleva cada docente?</option>
+                <option value="/consulta/aulas">¿Cual es el nivel de ocupacion del aula 103 los dias Lunes?</option>
+                <option value="/consulta/cursos/computacion_grafica">¿Cuando toca el curso Computación Gráfica?</option>
+                <option value="/consulta/ocupacion_docentes_tarde">¿Cual es el nivel de ocupación docentes en el turno tarde</option>
+                <option value="/consulta/cursos/Análisis_y_Diseño_de_Algoritmos">¿Que dias de la semana toca el curso Diseño de Algoritmos?</option>
+                <option value="/consulta/cursos/mañana">C¿Que cursos hay en la Mañana?</option>
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary">Consultar</button>
+    </form>
+
+    <h3 class="mt-4">Resultados:</h3>
+    <div id="resultados"></div>
+</div>
+
+<script>
+    $(document).ready(function() {
+        $("#consultaForm").submit(function(event) {
+            event.preventDefault();
+
+            const consultaSeleccionada = $("#consultaType").val();
+
+            // Hacer la solicitud GET a la API de Flask
+            $.get("http://localhost:5000" + consultaSeleccionada, function(data) {
+                // Limpiar los resultados anteriores
+                $("#resultados").empty();
+
+                // Verificar si los resultados son un arreglo o no
+                if (Array.isArray(data) && data.length > 0) {
+                    let table = '<table class="table table-bordered"><thead><tr>';
+                    // Agregar las cabeceras de la tabla (basado en las claves del primer objeto)
+                    Object.keys(data[0]).forEach(function(key) {
+                        table += '<th>' + key.replace('_', ' ').toUpperCase() + '</th>';
+                    });
+                    table += '</tr></thead><tbody>';
+
+                    // Agregar las filas de la tabla con los datos
+                    data.forEach(function(row) {
+                        table += '<tr>';
+                        Object.values(row).forEach(function(value) {
+                            table += '<td>' + (value || 'N/A') + '</td>';
+                        });
+                        table += '</tr>';
+                    });
+
+                    table += '</tbody></table>';
+                    // Mostrar la tabla en el div de resultados
+                    $("#resultados").html(table);
+                } else {
+                    $("#resultados").text("No se encontraron resultados.");
+                }
+            }).fail(function() {
+                $("#resultados").text("Ocurrió un error al realizar la consulta.");
+            });
+        });
+    });
+</script>
+
+</body>
+</html>

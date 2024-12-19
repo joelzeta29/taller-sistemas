@@ -1,0 +1,184 @@
+codigo_curso,area_curricular,nombre_del_curso,grado_semestre,grupo,turno,salon,nombre docente,lunes,martes,miercoles,jueves,viernes
+EG101,General,Comprensión y Argumentación,I,U,M,101,NULL,11-13,NULL,NULL,7-10,NULL
+EG104,General,Taller de innovación y emprendimiento,I,U,M,101,NULL,NULL,7-9,NULL,NULL,7-9
+EG102,General,Pensamiento racional y ética,I,U,M,101,NULL,NULL,9-11,NULL,NULL,9-11
+EG103,General,Matemática básica,I,A,M,101,NULL,NULL,NULL,11-13,10-13,NULL
+EG103,General,Matemática básica,I,B,M,Lab. de Automatización,NULL,NULL,NULL,11-13,10-13,NULL
+EG105,General,Ecología y desarrollo sostenible,I,U,M,101,NULL,NULL,11-13,NULL,NULL,11-13
+SIS201,Específico,Pensamiento computacional,I,A,M,L5/CUC,COYLA IDME ELMER,9-11,NULL,9-11,NULL,NULL
+SIS201,Específico,Pensamiento computacional,I,B,M,Lab 1/101,NULL,9-11,NULL,9-11,NULL,NULL
+SIS202,Específico,Introducción a la Ingeniería de Sistemas,I,A,M,101,CONDORI ALEJO HENRY IVAN,7-9,NULL,7-9,NULL,NULL
+SIS202,Específico,Introducción a la Ingeniería de Sistemas,I,B,T,101,PONCE CORDERO PEDRO FEDER,NULL,13-15,NULL,13-15,NULL
+EG119,Estudios Gene,Seguridad y defensa nacional,II,A,M,102,NULL,9-11,NULL,NULL,NULL,11-13
+EG116,Estudios Gene,Actividades físicas y deportes para la salud,II,A,M,102,NULL,11-13,NULL,NULL,NULL,7-9
+HUM203,Estudios Espe,Inglés básico,II,A,M,102,NULL,NULL,11-13,11-12,NULL,NULL
+EG111,Estudios Gene,Cálculo Diferencial,II,A,M,102,NULL,7-9,NULL,NULL,7-10,NULL
+EG112,Estudios Gene,Física I,II,A,M,102,NULL,NULL,9-11,NULL,10-13,NULL
+SIS204,Estudios Espe,Programación orientada a objetos I,II,A,M,102/Lab 1,HOLGUIN HOLGUIN EDGAR,NULL,7-9,7-9,NULL,NULL
+SIS205,Estudios Espe,Estructuras Discretas,II,A,M,102/Lab 1,VILCA HUAYTA OLIVER AMADEO,NULL,NULL,9-11,NULL,9-11
+EG119,Estudios Gene,Seguridad y defensa nacional,II,B,T,102,NULL,17-19,NULL,NULL,NULL,13-15
+EG116,Estudios Gene,Actividades físicas y deportes para la salud,II,B,T,102,NULL,NULL,NULL,NULL,13-15,15-17
+HUM203,Estudios Espe,Inglés básico,II,B,T,102,NULL,NULL,NULL,NULL,17-19,17-18
+EG111,Estudios Gene,Cálculo Diferencial,II,B,T,102,NULL,13-15,NULL,13-16,NULL,NULL
+EG112,Estudios Gene,Física I,II,B,T,102,NULL,NULL,17-19,16-19,NULL,NULL
+SIS204,Estudios Espe,Programación orientada a objetos I,II,B,T,102/Lab 1,GOMEZ QUISPE HUGO YOSEF,NULL,15-17,NULL,15-17,NULL
+SIS205,Estudios Espe,Estructuras Discretas,II,B,T,102/Lab 1,SOTOMAYOR ALZAMORA GUINA G.,15-17,13-15,NULL,NULL,NULL
+EG110,Estudios Gene,Estadística,III,A,M,103,NULL,7-10,NULL,NULL,NULL,7-9
+HUM207,Estudios Espe,Inglés técnico,III,A,M,103,NULL,NULL,7-9,NULL,NULL,9-11
+MAT208,Estudios Espe,Física II,III,A,M,103,NULL,NULL,NULL,7-9,11-13,NULL
+MAT209,Estudios Espe,Cálculo integral,III,A,M,103,NULL,NULL,NULL,NULL,7-9,11-13
+SIS206,Estudios Espe,Programación orientada a objetos II,III,A,M,103/Lab 2,JIMENEZ CHURA ADOLFO CARLOS,10-13,NULL,11-13,NULL,NULL
+SIS301,Estudios Espe,Sistemas electrónicos y digitales,III,A,M,103/Lab 2,GONZALES PACO MAGALI GIANINA,NULL,11-13,9-11,NULL,NULL
+SIS302,Estudios Espe,Desarrollo basado en plataformas I,III,A,M,103/Lab 2,BEJAR GONZALES VICTOR HUGO,NULL,9-11,NULL,9-11,NULL
+EG110,Estudios Gene,Estadística,III,B,T,103,NULL,13-15,NULL,16-19,NULL,NULL
+HUM207,Estudios Espe,Inglés técnico,III,B,T,103,NULL,NULL,NULL,NULL,13-15,13-15
+MAT208,Estudios Espe,Física II,III,B,T,103,NULL,NULL,NULL,NULL,15-17,15-17
+MAT209,Estudios Espe,Cálculo integral,III,B,T,103,NULL,NULL,17-19,NULL,17-19,NULL
+SIS206,Estudios Espe,Programación orientada a objetos II,III,B,T,103/Lab 2,ZANABRIA GALVEZ ALDO HERNAN,NULL,15-17,13-16,NULL,NULL
+SIS301,Estudios Espe,Sistemas electrónicos y digitales,III,B,T,103/Lab 2,NULL,17-19,13-15,NULL,NULL,NULL
+SIS302,Estudios Espe,Desarrollo basado en plataformas I,III,B,T,103/Lab 2,CALDERON VILCA EDWIN FREDY,15-17,NULL,NULL,NULL,17-19
+SIS210,Estudios Especí,Algoritmos y Estructuras de Datos,IV,A,M,104/Lab 3/104,VILCA HUAYTA OLIVER AMADEO,11-13,NULL,11-13,NULL,11-13
+SIS211,Estudios Especí,Teoría de la Computación,IV,A,M,104/Lab 3,OLAZABAL GUERRA ANGEL MANUEL,9-11,7-9,NULL,NULL,NULL
+SIS303,Estudios de Esp,Base de Datos I,IV,A,M,104/Lab 3,NULL,NULL,NULL,9-11,9-11,NULL
+MAT212,Estudios Especí,Cálculo Vectorial,IV,A,M,104,NULL,7-9,NULL,NULL,7-9,NULL
+MAT213,Estudios Especí,Algebra lineal,IV,A,M,104,NULL,NULL,NULL,NULL,11-13,7-9
+SIS304,Estudios de Esp,Desarrollo Basado en Plataformas II,IV,A,M,104/Lab 3,CALDERON VILCA EDWIN FREDY,NULL,11-13,NULL,NULL,9-11
+SIS305,Estudios de Esp,Arquitectura de Computadoras,IV,A,M,104/Lab 3,ROMERO FLORES ROBERT ANTONIO,NULL,9-11,7-9,NULL,NULL
+SIS210,Estudios Especí,Algoritmos y Estructuras de Datos,IV,C,M,Lab 3/104/Lab 3,NULL,11-13,NULL,11-13,NULL,11-13
+SIS211,Estudios Especí,Teoría de la Computación,IV,C,M,Lab 3/104,ALLCA MAMANI UBALDO,9-11,7-9,NULL,NULL,NULL
+SIS303,Estudios de Esp,Base de Datos I,IV,C,M,Lab 3/104,FERNANDEZ CHAMBI MAYENKA,NULL,NULL,9-11,9-11,NULL
+SIS304,Estudios de Esp,Desarrollo Basado en Plataformas II,IV,C,M,Lab 3/104,RUELAS ACERO DONIA ALIZANDRA,NULL,11-13,NULL,NULL,9-11
+SIS305,Estudios de Esp,Arquitectura de Computadoras,IV,C,M,Lab 3/104,PONCE CORDERO PEDRO FEDER,NULL,9-11,7-9,NULL,NULL
+SIS210,Estudios Especí,Algoritmos y Estructuras de Datos,IV,B,T,104/Lab 3/Lab 3,GOMEZ QUISPE HUGO YOSEF,17-19,NULL,17-19,NULL,17-19
+SIS211,Estudios Especí,Teoría de la Computación,IV,B,T,104/Lab 3,NULL,NULL,13-15,NULL,13-15,NULL
+SIS303,Estudios de Esp,Base de Datos I,IV,B,T,104/Lab 3,ALIAGA PAYEHUANCA ELVIS AUGUSTO,NULL,17-19,NULL,NULL,15-17
+MAT212,Estudios Especí,Cálculo Vectorial,IV,B,T,104,NULL,13-15,NULL,13-15,NULL,NULL
+MAT213,Estudios Especí,Algebra lineal,IV,B,T,104,NULL,15-17,NULL,15-17,NULL,NULL
+SIS304,Estudios de Esp,Desarrollo Basado en Plataformas II,IV,B,T,Lab. de S.I.,ACEITUNO ROJO MIGUEL ROMILIO,NULL,15-17,NULL,17-19,NULL
+SIS305,Estudios de Esp,Arquitectura de Computadoras,IV,B,T,104/Lab 3,NULL,NULL,NULL,NULL,15-17,13-15
+SIS214,Estudios Especí,Análisis y Diseño de Algoritmos,V,A,M,301/Lab 2/301,ROMERO FLORES ROBERT ANTONIO,9-11,7-9,NULL,NULL,7-9
+SIS306,Estudios de Esp,Base de Datos II,V,A,M,Lab. de S.I.,ACEITUNO ROJO MIGUEL ROMILIO,11-13,NULL,NULL,NULL,9-11
+SIS307,Estudios de Esp,Ingeniería de Software,V,A,M,301/Lab 1,TICONA YANQUI FIDEL ERNESTO,NULL,NULL,9-11,9-11,NULL
+SIS215,Estudios Especí,Sistemas Operativos,V,A,M,301/Lab 1,MAMANI HUACANI ZULEMA,NULL,9-11,NULL,NULL,11-13
+SIS216,Estudios Especí,Compiladores,V,A,M,301/Lab 2,NULL,7-9,NULL,7-9,NULL,NULL
+SIS217,Estudios Especí,Métodos numéricos,V,A,M,301/Lab 2,ZANABRIA ORTEGA MILDER,NULL,11-13,NULL,11-13,NULL
+SOC218,Estudios Especí,Ideologías contemporaneas,V,A,M,301,NULL,NULL,NULL,11-13,7-9,NULL
+SIS214,Estudios Especí,Análisis y Diseño de Algoritmos,V,C,M,101/301/Lab2,INGALUQUE ARAPA MARGA ISABEL,9-11,7-9,NULL,NULL,7-9
+SIS306,Estudios de Esp,Base de Datos II,V,C,M,Lab 2/301,FERNANDEZ CHAMBI MAYENKA,11-13,NULL,NULL,NULL,9-11
+SIS307,Estudios de Esp,Ingeniería de Software,V,C,M,Lab 1/301,NULL,NULL,NULL,9-11,9-11,NULL
+SIS215,Estudios Especí,Sistemas Operativos,V,C,M,Lab 2/301,GONZALES PACO MAGALI GIANINA,NULL,9-11,NULL,NULL,11-13
+SIS216,Estudios Especí,Compiladores,V,C,M,Lab 2/301,NULL,7-9,NULL,7-9,NULL,NULL
+SIS217,Estudios Especí,Métodos numéricos,V,C,M,Lab 2/301,JIMENEZ CHURA ADOLFO CARLOS,NULL,11-13,NULL,11-13,NULL
+SIS214,Estudios Especí,Análisis y Diseño de Algoritmos,V,B,T,301/301/Lab 2,ALLCA MAMANI UBALDO,13-15,13-15,NULL,13-15,NULL
+SIS306,Estudios de Esp,Base de Datos II,V,B,T,301/Lab 1,ALIAGA PAYEHUANCA ELVIS AUGUSTO,NULL,NULL,17-19,NULL,17-19
+SIS307,Estudios de Esp,Ingeniería de Software,V,B,T,301/Lab 1,NULL,15-17,NULL,NULL,NULL,15-17
+SIS215,Estudios Especí,Sistemas Operativos,V,B,T,301/Lab 2,NULL,NULL,15-17,NULL,15-17,NULL
+SIS216,Estudios Especí,Compiladores,V,B,T,301/Lab 2,NULL,NULL,17-19,NULL,17-19,NULL
+SIS217,Estudios Especí,Métodos numéricos,V,B,T,301/Lab 1,SOTOMAYOR ALZAMORA GUINA G.,17-19,NULL,13-15,NULL,NULL
+SOC218,Estudios Especí,Ideologías contemporaneas,V,B,T,301,NULL,NULL,NULL,15-17,NULL,13-15
+SIS308,Estudios de Esp,Sistemas de comunicación de datos,VI,A,M,303/Lab redes,NULL,9-11,NULL,NULL,NULL,9-11
+SIS219,Estudios Especí,Programación competitiva,VI,A,M,303/Lab 1,NULL,7-9,NULL,NULL,NULL,7-9
+SIS220,Estudios Especí,Estructuras de datos avanzados,VI,A,M,Lab 1/303/Lab 2,BEJAR GONZALES VICTOR HUGO,11-13,NULL,7-9,NULL,11-13
+SIS309,Estudios de Esp,Sistemas de información,VI,A,M,303/Lab 4,INGALUQUE ARAPA MARGA ISABEL,NULL,NULL,9-11,9-11,NULL
+SIS221,Estudios Especí,Investigación de operaciones,VI,A,M,303/Lab 1,SOTOMAYOR ALZAMORA GUINA G.,NULL,11-13,11-13,NULL,NULL
+SIS222,Estudios Especí,Ingeniería de procesos,VI,A,M,303/Lab 3,CONDORI ALEJO HENRY IVAN,NULL,7-9,NULL,7-9,NULL
+SIS223,Estudios Especí,Teoría y ciencia de sistemas,VI,A,M,303,TICONA YANQUI FIDEL ERNESTO,NULL,9-11,NULL,11-13,NULL
+SIS308,Estudios de Esp,Sistemas de comunicación de datos,VI,C,M,Lab Redes/303,ALLCA MAMANI UBALDO,9-11,NULL,NULL,NULL,9-11
+SIS219,Estudios Especí,Programación competitiva,VI,C,M,Lab 1/303,NULL,7-9,NULL,NULL,NULL,7-9
+SIS220,Estudios Especí,Estructuras de datos avanzados,VI,C,M,303/Lab 4/303,NULL,11-13,NULL,7-9,NULL,11-13
+SIS309,Estudios de Esp,Sistemas de información,VI,C,M,Lab 4/303,MAMANI HUACANI ZULEMA,NULL,NULL,9-11,9-11,NULL
+SIS221,Estudios Especí,Investigación de operaciones,VI,C,M,Lab 1/303,NULL,NULL,11-13,11-13,NULL,NULL
+NULL,Estudios Especí,Ingeniería de procesos,VI,C,M,Lab 1/303,NULL,NULL,7-9,NULL,7-9,NULL
+SIS222,Estudios Especí,Teoría y ciencia de sistemas,VI,C,M,Lab I.A.,TICONA YANQUI FIDEL ERNESTO,NULL,9-11,NULL,11-13,NULL
+SIS308,Estudios de Esp,Sistemas de comunicación de datos,VI,B,T,303/Lab Redes,NULL,NULL,13-15,13-15,NULL,NULL
+SIS219,Estudios Especí,Programación competitiva,VI,B,T,303/Lab 3,GOMEZ QUISPE HUGO YOSEF,NULL,17-19,NULL,17-19,NULL
+SIS220,Estudios Especí,Estructuras de datos avanzados,VI,B,T,303/Lab 2,ZANABRIA GALVEZ ALDO HERNAN,13-15,NULL,17-19,NULL,13-15
+SIS309,Estudios de Esp,Sistemas de información,VI,B,T,303/Lab 2,FLORES ARNAO ALODIA,15-17,NULL,NULL,NULL,15-17
+SIS221,Estudios Especí,Investigación de operaciones,VI,B,T,303/Lab 3,NULL,17-19,15-17,NULL,NULL,NULL
+SIS222,Estudios Especí,Ingeniería de procesos,VI,B,T,303/Lab 4,NULL,NULL,NULL,NULL,13-15,17-19
+SIS223,Estudios Especí,Teoría y ciencia de sistemas,VI,B,T,303,NULL,NULL,NULL,15-17,15-17,NULL
+SIS308,Estudios de Esp,Sistemas de comunicación de datos,VI,D,T,Lab Redes/303,NULL,NULL,13-15,13-15,NULL,NULL
+SIS219,Estudios Especí,Programación competitiva,VI,D,T,Lab 1/303,NULL,NULL,17-19,NULL,17-19,NULL
+SIS220,Estudios Especí,Estructuras de datos avanzados,VI,D,T,Lab 1/303,NULL,13-15,NULL,17-19,NULL,13-15
+SIS309,Estudios de Esp,Sistemas de información,VI,D,T,Lab 1/303,NULL,15-17,NULL,NULL,NULL,15-17
+SIS221,Estudios Especí,Investigación de operaciones,VI,D,T,Lab 1/303,NULL,17-19,15-17,NULL,NULL,NULL
+SIS222,Estudios Especí,Ingeniería de procesos,VI,D,T,Lab 1/303,NULL,NULL,NULL,NULL,13-15,17-19
+NULL,Estudios Especí,Teoría y ciencia de sistemas,VI,D,T,Lab. I.A.,NULL,NULL,NULL,15-17,15-17,NULL
+SIS310,Estudios de Esp,Interacción humano computador,VII,A,M,101PN/Lab 2,GONZALES PACO MAGALI GIANINA,NULL,NULL,NULL,9-11,9-11
+SIS224,Estudios Especí,Lenguajes de programación,VII,A,M,101PN/Lab 4,HUAYTA FLORES LENIN,11-13,NULL,11-13,NULL,NULL
+SIS225,Estudios Especí,Computación paralela y distribuida,VII,A,M,101PN/Lab 2,ROMERO FLORES ROBERT ANTONIO,NULL,NULL,9-11,7-9,NULL
+SIS226,Estudios Especí,Computación gráfica,VII,A,M,101PN/Lab 4,NULL,NULL,7-9,NULL,NULL,11-13
+SIS311,Estudios de Esp,Inteligencia artificial,VII,A,M,101PN/101PN/Lab 3,RUELAS ACERO DONIA ALIZANDRA,9-11,NULL,7-9,NULL,7-9
+SIS227,Estudios Especí,Programación de video juego,VII,A,M,101PN/Lab 1,NULL,7-9,9-11,NULL,NULL,NULL
+SIS312,Estudios de Esp,Administración de Sistemas de comunicación de datos,VII,A,M,101PN/Lab Redes,NULL,NULL,11-13,NULL,11-13,NULL
+SIS310,Estudios de Esp,Interacción humano computador,VII,C,M,Lab 5/101PN,FLORES ARNAO ALODIA,NULL,NULL,NULL,9-11,9-11
+SIS224,Estudios Especí,Lenguajes de programación,VII,C,M,Lab 4/101PN,NULL,11-13,NULL,11-13,NULL,NULL
+SIS225,Estudios Especí,Computación paralela y distribuida,VII,C,M,Lab 5/101PN,NULL,NULL,NULL,9-11,7-9,NULL
+SIS226,Estudios Especí,Computación gráfica,VII,C,M,Lab 4/101PN,NULL,NULL,7-9,NULL,NULL,11-13
+SIS311,Estudios de Esp,Inteligencia artificial,VII,C,M,Lab 4/Lab 5/101PN,NULL,9-11,NULL,7-9,NULL,7-9
+SIS227,Estudios Especí,Programación de video juego,VII,C,M,Lab 3/101PN,NULL,7-9,9-11,NULL,NULL,NULL
+SIS312,Estudios de Esp,Administración de Sistemas de comunicación de datos,VII,C,M,Lab Redes/101PN,NULL,NULL,11-13,NULL,11-13,NULL
+SIS228,Estudios de Esp,Interacción humano computador,VII,B,T,101PN/Lab 1,MAMANI HUACANI ZULEMA,15-17,NULL,15-17,NULL,NULL
+SIS229,Estudios Especí,Lenguajes de programación,VII,B,T,101PN/Lab 3,NULL,13-15,NULL,13-15,NULL,NULL
+SIS313,Estudios Especí,Computación paralela y distribuida,VII,B,T,101PN/Lab 2,NULL,17-19,17-19,NULL,NULL,NULL
+SIS314,Estudios Especí,Computación gráfica,VII,B,T,101PN/Lab 5,BEJAR GONZALES VICTOR HUGO,NULL,NULL,17-19,NULL,17-19
+SIS315,Estudios de Esp,Inteligencia artificial,VII,B,T,101PN/Lab 4/101,FERNANDEZ CHAMBI MAYENKA,NULL,13-15,NULL,13-15,13-15
+SIS230,Estudios Especí,Programación de video juego,VII,B,T,101PN/Lab 3,NULL,NULL,15-17,NULL,15-17,NULL
+SIS231,Estudios de Esp,Administración de Sistemas de comunicación de datos,VII,B,T,101PN/Lab Redes,NULL,NULL,NULL,NULL,17-19,15-17
+SIS228,Estudios de Esp,Interacción humano computador,VII,D,T,Lab 4/101PN,NULL,15-17,NULL,15-17,NULL,NULL
+SIS229,Estudios Especí,Lenguajes de programación,VII,D,T,Lab 4/101PN,NULL,13-15,NULL,13-15,NULL,NULL
+SIS313,Estudios Especí,Computación paralela y distribuida,VII,D,T,Lab 4/101PN,NULL,17-19,17-19,NULL,NULL,NULL
+SIS314,Estudios Especí,Computación gráfica,VII,D,T,Lab 4/101PN,NULL,NULL,NULL,17-19,NULL,17-19
+SIS315,Estudios de Esp,Inteligencia artificial,VII,D,T,Lab 4/101PN/Lab 4,NULL,NULL,13-15,NULL,13-15,13-15
+SIS230,Estudios Especí,Programación de video juego,VII,D,T,Lab 4/101PN,NULL,NULL,15-17,NULL,15-17,NULL
+SIS231,Estudios de Esp,Administración de Sistemas de comunicación de datos,VII,D,T,Lab Redes/101PN,NULL,NULL,NULL,NULL,17-19,15-17
+SIS228,Estudios Especí,Formación de Empresas de Base Tecnológica,VIII,U,M,102PN,PONCE CORDERO PEDRO FEDER,NULL,NULL,11-13,NULL,7-9
+SIS229,Estudios Especí,Formulación y gestión de proyectos,VIII,U,M,102PN,SUCASAIRE MONROY WILDO,NULL,11-13,NULL,NULL,9-11
+SIS313,Estudios de Esp,Seguridad en Sistemas informáticos,VIII,U,M,102PN/Lab 6,FLORES ARNAO ALODIA,11-13,NULL,9-11,NULL,NULL
+SIS314,Estudios de Esp,Internet de las cosas,VIII,U,M,102PN/Lab 1,TAPIA CATACORA PABLO CESAR,9-11,NULL,NULL,11-13,NULL
+SIS315,Estudios de Esp,Redes neuronales,VIII,U,M,102PN/Lab 1/102PN,HUAYTA FLORES LENIN,NULL,7-9,NULL,7-9,11-13
+SIS230,Estudios Especí,Modelado sistémico y simulación,VIII,U,M,Lab 4/102PN,OLAZABAL GUERRA ANGEL MANUEL,7-9,NULL,7-9,NULL,NULL
+SIS231,Estudios Especí,Investigación en Ingeniería de Sistemas,VIII,U,M,102PN,RUELAS ACERO DONIA ALIZANDRA,NULL,9-11,NULL,9-11,NULL
+SIS328,Especialidad,Diseño de Redes de Computadores,IX,U,T,Lab. Redes,ACEITUNO ROJO MIGUEL ROMILIO,NULL,17-19,17-19,15-17,NULL
+SIS329,Especialidad,Seguridad en Redes de Computadores,IX,U,T,Lab 4,NULL,NULL,NULL,NULL,17-19,15-17
+SIS330,Especialidad,Redes Móviles e Inalambricas,IX,U,T,Lab. Redes,HUAYTA FLORES LENIN,NULL,NULL,NULL,13-15,17-19
+SIS227,Específico,Tópicos avanzados de Inteligencia Computacional,IX,A,T,102PN/102PN/Lab 3,NULL,15-17,15-17,15-17,NULL,NULL
+SIS227,Específico,Tópicos avanzados de Inteligencia Computacional,IX,B,T,Lab 3/Lab 2/102PN,TAPIA CATACORA PABLO CESAR,15-17,15-17,15-17,NULL,NULL
+SIS408,Específico,Proyecto de tesis,IX,A,T,102PN,COYLA IDME ELMER,NULL,13-15,NULL,NULL,NULL
+SIS408,Específico,Proyecto de tesis,IX,B,T,102,ZANABRIA ORTEGA MILDER,NULL,13-15,NULL,NULL,NULL
+SIS409,Específico,Prácticas Pre-Profesionales I,IX,A,T,102PN,PONCE CORDERO PEDRO FEDER,17-19,NULL,13-15,NULL,NULL
+SIS409,Específico,Prácticas Pre-Profesionales I,IX,B,T,101,SUCASAIRE MONROY WILDO,17-19,NULL,13-15,NULL,NULL
+SIS346,NULL,Electivo II: Programacion  para Competición Intermedio,IX,U,T,101/Lab 2,NULL,13-15,NULL,NULL,NULL,13-15
+SIS346,NULL,Electivo II: Internet de las Cosas,IX,U,T,Lab 1/101,NULL,13-15,NULL,NULL,NULL,13-15
+AREA: INGENIERIA DE SOFTWARE,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+SIS321,Especialidad,Proyectos de Software I,IX,U,T,Lab. I.A.,NULL,NULL,NULL,NULL,13-15,17-19
+SIS322,Especialidad,Calidad de Software y Usabilidad,IX,U,T,Lab. I.A.,FLORES ARNAO ALODIA,NULL,17-19,NULL,17-19,NULL
+SIS323,Especialidad,Taller de Desarrollo de Software,IX,U,T,Lab. I.A./Lab 4/Lab. I.A.,TICONA YANQUI FIDEL ERNESTO,NULL,NULL,17-19,15-17,15-17
+SIS227,Específico,Tópicos avanzados de Inteligencia Computacional,IX,A,T,102PN/102PN/Lab 3,NULL,15-17,15-17,15-17,NULL,NULL
+SIS227,Específico,Tópicos avanzados de Inteligencia Computacional,IX,B,T,Lab 3/Lab 2/102PN,TAPIA CATACORA PABLO CESAR,15-17,15-17,15-17,NULL,NULL
+SIS408,Específico,Proyecto de tesis,IX,A,T,102PN,COYLA IDME ELMER,NULL,13-15,NULL,NULL,NULL
+SIS408,Específico,Proyecto de tesis,IX,B,T,102,ZANABRIA ORTEGA MILDER,NULL,13-15,NULL,NULL,NULL
+SIS409,Específico,Prácticas Pre-Profesionales I,IX,A,T,102PN,PONCE CORDERO PEDRO FEDER,17-19,NULL,13-15,NULL,NULL
+SIS409,Específico,Prácticas Pre-Profesionales I,IX,B,T,101,SUCASAIRE MONROY WILDO,17-19,NULL,13-15,NULL,NULL
+SIS346,NULL,Electivo II: Programacion  para Competición Intermedio,IX,U,T,101/Lab 2,NULL,13-15,NULL,NULL,NULL,13-15
+SIS346,NULL,Electivo II: Internet de las Cosas,IX,U,T,Lab 1/101,NULL,13-15,NULL,NULL,NULL,13-15
+SIS338,Especialidad,Proyectos de Software II,X,U,T,Lab. 5,SUCASAIRE MONROY WILDO,15-17,NULL,15-17,15-17,NULL
+SIS339,Especialidad,Integración de Sistemas de Software,X,U,T,Lab I.A.,NULL,13-15,15-17,NULL,NULL,NULL
+SIS340,Especialidad,Tópicos Avanzados en Desarrollo de Software,X,U,T,Lab I.A.,NULL,NULL,NULL,13-15,NULL,13-15
+SIS341,Especialidad,Evaluación y Pruebas de Software,X,U,T,Lab 1/Lab 5,NULL,NULL,NULL,NULL,17-19,15-17
+SIS350,Específico,Programación para competición avanzado,X,A,T,Lab 1./301,TAPIA CATACORA PABLO CESAR,NULL,NULL,17-19,NULL,17-19
+SIS350,Específico,Programación para competición avanzado,X,B,T,Lab 6,FLORES ARNAO ALODIA,NULL,NULL,17-19,NULL,17-19
+SIS410,Específico,Trabajo de investigación,X,A,T,Lab IA/101,MAMANI HUACANI ZULEMA,17-19,17-19,NULL,NULL,NULL
+SIS410,Específico,Trabajo de investigación,X,B,T,Lab de Automatización,INGALUQUE ARAPA MARGA ISABEL,17-19,17-19,NULL,NULL,NULL
+SIS411,Específico,Práctica pre-profesional II,X,A,T,103/301,ZANABRIA GALVEZ ALDO HERNAN,NULL,13-15,NULL,13-15,NULL
+SIS411,Específico,Práctica pre-profesional II,X,B,T,Lab 5,BEJAR GONZALES VICTOR HUGO,NULL,13-15,NULL,13-15,NULL
+SIS331,Especialidad,Gestión Avanzada de redes de computadoras y seguridad,X,U,T,Lab Redes/103,NULL,13-15,NULL,13-15,NULL,NULL
+SIS332,Especialidad,Ruteo y multiplexación avanzada,X,U,T,Lab Redes/301/301,NULL,NULL,NULL,15-17,15-17,15-17
+SIS333,Especialidad,Tópicos avanzados en redes,X,U,T,301/Lab Redes,ALLCA MAMANI UBALDO,NULL,NULL,NULL,17-19,13-15
+SIS334,Especialidad,Gerencia de proyectos de redes y telecomunicacones,X,U,T,Lab Redes,GONZALES PACO MAGALI GIANINA,15-17,15-17,NULL,NULL,NULL
+SIS350,Específico,Programación para competición avanzado,X,A,T,Lab 1./301,TAPIA CATACORA PABLO CESAR,NULL,NULL,17-19,NULL,17-19
+SIS350,Específico,Programación para competición avanzado,X,B,T,Lab 6,NULL,NULL,NULL,17-19,NULL,17-19
+SIS410,Específico,Trabajo de investigación,X,A,T,Lab IA/101,MAMANI HUACANI ZULEMA,17-19,17-19,NULL,NULL,NULL
+SIS410,Específico,Trabajo de investigación,X,B,T,Lab de Automatización,INGALUQUE ARAPA MARGA ISABEL,17-19,17-19,NULL,NULL,NULL
+SIS411,Específico,Práctica pre-profesional II,X,A,T,103/301,ZANABRIA GALVEZ ALDO HERNAN,NULL,13-15,NULL,13-15,NULL
+SIS411,Específico,Práctica pre-profesional II,X,B,T,Lab 5,BEJAR GONZALES VICTOR HUGO,NULL,13-15,NULL,13-15,NULL
